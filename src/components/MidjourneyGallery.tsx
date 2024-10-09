@@ -157,6 +157,60 @@ const artPieces: ArtPieceType[] = [
     title: "Bioluminescent Symphony",
     description: "An underwater scene where musical instruments are replaced by glowing sea creatures, creating a visual representation of an otherworldly melody.",
     imageFileName: "party.png"
+  },
+  {
+    id: 25,
+    title: "Fractured Realms",
+    description: "A landscape split into multiple floating islands, each representing a different biome or dimension, connected by ethereal bridges of light.",
+    imageFileName: "bar_dogs_1.png"
+  },
+  {
+    id: 26,
+    title: "Bioluminescent Symphony",
+    description: "An underwater scene where musical instruments are replaced by glowing sea creatures, creating a visual representation of an otherworldly melody.",
+    imageFileName: "cat_5.png"
+  },
+  {
+    id: 27,
+    title: "Fractured Realms",
+    description: "A landscape split into multiple floating islands, each representing a different biome or dimension, connected by ethereal bridges of light.",
+    imageFileName: "elon_1.png"
+  },
+  {
+    id: 28,
+    title: "Bioluminescent Symphony",
+    description: "An underwater scene where musical instruments are replaced by glowing sea creatures, creating a visual representation of an otherworldly melody.",
+    imageFileName: "forest_1.png"
+  },
+  {
+    id: 29,
+    title: "Fractured Realms",
+    description: "A landscape split into multiple floating islands, each representing a different biome or dimension, connected by ethereal bridges of light.",
+    imageFileName: "island_1.png"
+  },
+  {
+    id: 30,
+    title: "Bioluminescent Symphony",
+    description: "An underwater scene where musical instruments are replaced by glowing sea creatures, creating a visual representation of an otherworldly melody.",
+    imageFileName: "chihuahua_rocket_1.png"
+  },
+  {
+    id: 31,
+    title: "Fractured Realms",
+    description: "A landscape split into multiple floating islands, each representing a different biome or dimension, connected by ethereal bridges of light.",
+    imageFileName: "johney_depp_1.png"
+  },
+  {
+    id: 32,
+    title: "Bioluminescent Symphony",
+    description: "An underwater scene where musical instruments are replaced by glowing sea creatures, creating a visual representation of an otherworldly melody.",
+    imageFileName: "messi.png"
+  },
+  {
+    id: 33,
+    title: "Bioluminescent Symphony",
+    description: "An underwater scene where musical instruments are replaced by glowing sea creatures, creating a visual representation of an otherworldly melody.",
+    imageFileName: "robot_1.png"
   }
 ]
 

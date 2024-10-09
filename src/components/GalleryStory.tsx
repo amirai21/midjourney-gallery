@@ -1,7 +1,24 @@
-import React from 'react'
+import React from 'react';
 
-export default function GalleryStory() {
+const GalleryStory: React.FC = () => {
   return (
-    <div>Gallery...</div>
-  )
-}
+    <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-100 to-gray-300">
+      <div className="max-w-4xl mx-auto p-10 bg-white/70 backdrop-blur-sm rounded-lg shadow-2xl">
+        <h1 className="font-cinzel text-5xl md:text-6xl lg:text-7xl font-bold text-gray-800 mb-8 text-center tracking-wide">
+          Artistry Reimagined
+        </h1>
+        <div className="font-cormorant text-2xl md:text-3xl text-gray-700 space-y-6">
+          <p className="text-center italic font-light">
+            Where traditional craftsmanship meets digital innovation
+          </p>
+          <p className="text-center">
+            Explore a curated collection that pushes the boundaries of artistic expression, 
+            blending timeless techniques with cutting-edge technology.
+          </p>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default GalleryStory;
