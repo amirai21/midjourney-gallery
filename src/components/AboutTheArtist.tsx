@@ -5,7 +5,7 @@ export default function AboutTheArtist() {
     <section className="bg-white py-16 px-4 sm:px-6 lg:px-8">
       <div className="container mx-auto">
         <div className="max-w-5xl mx-auto"> {/* Increased max width from 3xl to 5xl */}
-          <h2 className="font-cinzel text-2xl font-bold text-center mb-8 text-gray-800">The Prompt-Whisper Behind the Art (The Artist Behind the Prompts...)</h2>
+          <h2 className="font-cinzel text-2xl font-bold text-center mb-8 text-gray-800">The Artist Behind the Prompts</h2>
           <div className="flex flex-col md:flex-row items-center md:items-start gap-8">
             <img
               src="/images/me.png"

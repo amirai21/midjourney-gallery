@@ -96,7 +96,7 @@ const artPieces: ArtPieceType[] = [
     id: 14,
     title: "Fractured Realms",
     description: "A landscape split into multiple floating islands, each representing a different biome or dimension, connected by ethereal bridges of light.",
-    imageFileName: "miau_cafe_1.png"
+    imageFileName: "kite_1.png"
   },
   {
     id: 15,
@@ -120,7 +120,7 @@ const artPieces: ArtPieceType[] = [
     id: 18,
     title: "Fractured Realms",
     description: "A landscape split into multiple floating islands, each representing a different biome or dimension, connected by ethereal bridges of light.",
-    imageFileName: "ukrainian_girl_1.png"
+    imageFileName: "island_1.png"
   },
   {
     id: 19,
@@ -211,6 +211,24 @@ const artPieces: ArtPieceType[] = [
     title: "Bioluminescent Symphony",
     description: "An underwater scene where musical instruments are replaced by glowing sea creatures, creating a visual representation of an otherworldly melody.",
     imageFileName: "robot_1.png"
+  },
+  {
+    id: 34,
+    title: "Fractured Realms",
+    description: "A landscape split into multiple floating islands, each representing a different biome or dimension, connected by ethereal bridges of light.",
+    imageFileName: "ast_cat_1.png"
+  },
+  {
+    id: 35,
+    title: "Bioluminescent Symphony",
+    description: "An underwater scene where musical instruments are replaced by glowing sea creatures, creating a visual representation of an otherworldly melody.",
+    imageFileName: "pink_dolphins.png"
+  },
+  {
+    id: 36,
+    title: "Bioluminescent Symphony",
+    description: "An underwater scene where musical instruments are replaced by glowing sea creatures, creating a visual representation of an otherworldly melody.",
+    imageFileName: "arnold_1.png"
   }
 ]
 
