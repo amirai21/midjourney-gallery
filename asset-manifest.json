@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/midjourney-gallery/static/css/main.895b8812.css",
-    "main.js": "/midjourney-gallery/static/js/main.ab34e7b7.js",
+    "main.js": "/midjourney-gallery/static/js/main.eeb69d13.js",
     "static/js/453.50232902.chunk.js": "/midjourney-gallery/static/js/453.50232902.chunk.js",
     "index.html": "/midjourney-gallery/index.html",
     "main.895b8812.css.map": "/midjourney-gallery/static/css/main.895b8812.css.map",
-    "main.ab34e7b7.js.map": "/midjourney-gallery/static/js/main.ab34e7b7.js.map",
+    "main.eeb69d13.js.map": "/midjourney-gallery/static/js/main.eeb69d13.js.map",
     "453.50232902.chunk.js.map": "/midjourney-gallery/static/js/453.50232902.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.895b8812.css",
-    "static/js/main.ab34e7b7.js"
+    "static/js/main.eeb69d13.js"
   ]
 }
