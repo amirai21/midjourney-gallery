@@ -16,7 +16,7 @@ export default function ArtPiece({ piece, onClick }: ArtPieceProps) {
       onClick={onClick}
     >
       <img
-        src={`/images/midjourney/${piece.imageFileName}`}
+        src={`${process.env.PUBLIC_URL}/images/midjourney/${piece.imageFileName}`}
         alt={`Art piece: ${piece.title}`}
         className="object-cover w-full h-64 transition-transform duration-300 group-hover:scale-110"
       />

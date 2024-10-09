@@ -8,7 +8,7 @@ export default function AboutTheArtist() {
           <h2 className="font-cinzel text-2xl font-bold text-center mb-8 text-gray-800">The Artist Behind the Prompts</h2>
           <div className="flex flex-col md:flex-row items-center md:items-start gap-8">
             <img
-              src="/images/me.png"
+              src={`${process.env.PUBLIC_URL}/images/me.png`}
               alt="Programmer Portrait"
               className="rounded-full shadow-lg w-48 h-48 object-cover"
             />
