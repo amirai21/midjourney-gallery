@@ -17,7 +17,7 @@ export default function ArtPieceModal({ piece, onClose }: ArtPieceModalProps) {
         <h2 className="text-2xl font-bold mb-2">{piece.title}</h2>
         <div className="flex-grow relative mb-1 overflow-hidden"> {/* Reduced margin-bottom to mb-1 */}
           <img
-            src={`/images/midjourney/${piece.imageFileName}`}
+            src={`${process.env.PUBLIC_URL}/images/midjourney/${piece.imageFileName}`}
             alt={piece.title}
             className="object-contain w-full h-[98%]" // Image takes 95% of the height
           />
